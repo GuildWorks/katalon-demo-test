@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>gwsite--test</name>
+   <tag></tag>
+   <UUID>66549fd2-c27a-4fe9-82c1-fdcd99d85f0c</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
